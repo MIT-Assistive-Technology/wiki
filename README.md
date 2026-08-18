@@ -5,6 +5,7 @@ For all AT resources!
 - [Coding + Collaboration Style Guide](https://github.com/MIT-Assistive-Technology/wiki/blob/main/style-guide.md#project-repo-style-guide)
 - [Software Dev Resources](https://github.com/MIT-Assistive-Technology/wiki/blob/main/software-dev-resources.md)
 - [Resource Guide](https://docs.google.com/document/d/1s87V1e1piaw-j7Jzxq9AciwQZXcxcD8RlQs6Pyjhc_A/edit?tab=t.0)
+- [How to Open Source](https://github.com/MIT-Assistive-Technology/wiki/blob/main/open-source.md)
 
 ## Club Trainings + Guides
 - [All MIT AT Trainings](https://drive.google.com/drive/folders/1U305v2vINF2Bx3OauvLXGSGeJNpQJ5A8)
