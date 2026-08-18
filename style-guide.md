@@ -1,6 +1,6 @@
-# Project Repo Style Guide
+# Coding + Collaboration Style Guide
 
-Heavily inspired by [MIT AT GitHub + Intro Software Dev Training](https://docs.google.com/document/d/1xpCx8eqMVICehUoUG5245Ij-hrEVwxwWfV-j-afTQH8/edit?usp=sharing) and [Git + GitHub Best Practices for Teams (Opinionated)](https://dev.to/bholmesdev/git-github-best-practices-for-teams-opinionated-28h7). Would **highly** recommended reading through both!
+Heavily inspired by [MIT AT GitHub + Intro Software Dev Training](https://docs.google.com/document/d/1xpCx8eqMVICehUoUG5245Ij-hrEVwxwWfV-j-afTQH8/edit?usp=sharing) and [Git + GitHub Best Practices for Teams (Opinionated)](https://dev.to/bholmesdev/git-github-best-practices-for-teams-opinionated-28h7). Would **highly** recommend reading through both!
 
 ## 1. Create an Issue
 Create an issue with the following information:  
