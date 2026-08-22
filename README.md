@@ -16,3 +16,6 @@ For all AT resources!
 - [Home Base](https://docs.google.com/document/d/1cWFrCiyiIECx-yWXy3W_sdXZofvQcas1Odj-U-SHie8/edit?tab=t.hz8ycsvq1p0p)
 - [Onboarding](https://docs.google.com/document/d/1LbkpewZ4MInGwh1MPh2wGMaWM7aXeCBr__j6D8Iy4Gs/edit?tab=t.0)
 - [Member Expectations](https://docs.google.com/presentation/d/18EscYibhG8wQUVBfhpzq4-jRcYAuzca6mPir7wrrVpc/edit)
+
+## Life Stuff from Uncs
+- [Career Stuff](https://github.com/MIT-Assistive-Technology/wiki/blob/main/career.md)
