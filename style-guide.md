@@ -70,7 +70,7 @@ Write commit messages as short, 50-character-or-less phrases describing an the a
 
 ## 5. Testing
 Create test files to test those assumptions.  
-I would recommend looking into [Pytest] (https://docs.pytest.org/en/stable/getting-started.html).
+I would recommend looking into [Pytest](https://docs.pytest.org/en/stable/getting-started.html).
 These are unit tests for testing specific functions and their behaviors
 I would also recommend doing an “integration test” before merging, which is to make sure the entire system still runs together, not just the parts you changed.
 
